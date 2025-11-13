@@ -1,7 +1,12 @@
-## Welcome to the TPRC Organization on GitHub.
+# Welcome to the TPRC Organization on GitHub.
+>[!NOTE]
+>To view the repositories and contribute to code development, you must have authorized account.
 
-To view the repositories and contribute to code development, you must have an authorized account.
+If you ended up here by mistake, try going to the user's [Homepage](https://github.com/TheTPRC).
 
-To create a github account click [here](https://github.com/signup).
+## Quick steps
+- Click [here](https://github.com/signup) if you need create a GitHub account.
+- Then contact an [Administrator](mailto:git@tprc.nl) to be added to the Organization.
 
-If you already have an account and want to be added to the Organization, please [contact us](mailto:git@tprc.nl).
+>[!WARNING]
+> We only accept accounts with active 2FA, if you need help, [contact us](mailto:git@tprc.nl).
