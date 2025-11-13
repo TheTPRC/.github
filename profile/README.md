@@ -1,4 +1,4 @@
-# Welcome to the TPRC Organization on GitHub.
+# Welcome to the TPRC Organization on GitHub
 >[!NOTE]
 >To view the repositories and contribute to code development, you must have authorized account.
 
